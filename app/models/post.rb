@@ -1,5 +1,5 @@
 class Post < ApplicationRecord
-    validate :image_url ,presence: :true
-    validate :title ,presence: :true
-    validate :content ,presence: :true
+    validates :image_url ,presence: :true
+    validates :title ,presence: :true
+    validates :content ,presence: :true
 end
