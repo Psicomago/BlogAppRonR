@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* Heroku: https://blogcarlosaravena.herokuapp.com/
+
 * Ruby version
 
 * System dependencies
